@@ -32,7 +32,7 @@
 // or a set of Go source files that represent a single Go package.
 //
 // The -func flag accepts a comma-separated list of types so a single run can
-// generate methods for multiple types. The default output file is f_string.go,
+// generate methods for multiple types. The default output file is f_must.go,
 // where f is the lower-cased name of the first func listed. It can be overridden
 // with the -output flag.
 package main // import "github.com/vivalldi/muster"
